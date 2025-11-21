@@ -31,9 +31,7 @@ This project demonstrates practical embedded engineering skills:
 - LCD shows current angle and detected distance  
 - Can detect objects in front of the radar in semi-real time
 
-### 💻 Debug / Extension Mode (Optional)
-- Data can also be sent over UART or serial  
-- Useful for visualization on PC dashboards
+
 
 ---
 
@@ -45,22 +43,19 @@ This project demonstrates practical embedded engineering skills:
 | Sensor | HC-SR04 Ultrasonic |
 | Actuator | SG90 / MG90S Servo Motor |
 | Display | 16×2 LCD |
-| Misc | Jumper wires, breadboard / custom PCB |
+| Misc | Jumper wires |
 
 ---
 
 ## 🖼️ Project Images
 
-### 🛠️ Final Build  
-![Final Build](media/radar_final.jpg)
-
 ### ⚡ Wiring Diagram  
 ![Wiring Diagram](media/wiring.png)
 
-### 📟 LCD Output  
-![LCD Output](media/lcd_output.jpg)
+###  Pinout  
+![LCD Output](media/pinout.png)
 
-You can place your real photos or diagrams in `media/` as shown.
+
 
 ---
 
@@ -84,4 +79,13 @@ stm32-radar/
 │
 │── README.md
 ```
+
+
+---
+
+## 📧 Contact
+**Manar Daghsni**  
+📧 manardaghsni@gmail.com  
+🔗 https://linkedin.com/in/daghsni-manar  
+
 
